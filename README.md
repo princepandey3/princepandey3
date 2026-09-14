@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building inte
 
 ---
 
-## 🏆 Few Projects
+## 🚀 Projects
 
 ### 🤖 [AI Resume Analyzer](https://github.com/princepandey3/smartAIPowered-resume-tailor_-APP)
 AI-powered resume tailoring app that analyzes and optimizes resumes.
