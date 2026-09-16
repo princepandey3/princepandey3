@@ -22,7 +22,7 @@ AI-powered resume tailoring app that analyzes and optimizes resumes.
 🔗 [Live Demo](https://smartaipowered-resume-tailor-app.onrender.com/) &nbsp;|&nbsp; 📖 [Source Code](https://github.com/princepandey3/smartAIPowered-resume-tailor_-APP)
 
 ### 🔍 [DeepDive](https://github.com/princepandey3/Deep_Dive_02)
-An AI-powered mock interview platform that uses RAG to generate personalized interview questions from your resume and job description.
+An AI-powered mock interview platform that uses RAG to generate personalized interview questions from your resume and job description.🔗 [Live Demo](https://deep-dive-02.vercel.app/) &nbsp;|&nbsp;
 📖 [Source Code](https://github.com/princepandey3/Deep_Dive_02)
 
 ### 💰 [Expense Tracker App](https://github.com/princepandey3/Expense_Tracker_FullStack-React-Native-App)
